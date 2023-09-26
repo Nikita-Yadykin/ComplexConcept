@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\CPP Projects\Repositories\ComplexConcept\ComplexConcept\main.cpp(42,23): warning C4101: 'withoutStringObj': unreferenced local variable
+D:\CPP Projects\Repositories\ComplexConcept\ComplexConcept\main.cpp(43,21): warning C4101: 'withoutHashObj': unreferenced local variable
+D:\CPP Projects\Repositories\ComplexConcept\ComplexConcept\main.cpp(40,15): warning C4101: 'rightObj': unreferenced local variable
+  ComplexConcept.vcxproj -> D:\CPP Projects\Repositories\ComplexConcept\ComplexConcept\x64\Debug\ComplexConcept.exe

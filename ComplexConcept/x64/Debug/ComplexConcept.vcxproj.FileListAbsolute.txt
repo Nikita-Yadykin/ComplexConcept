@@ -1,0 +1,2 @@
+D:\CPP Projects\Современные стандарты С++\Модуль 34. Новшества C++ 17. Всё, что нужно знать про C++20\ComplexConcept\x64\Debug\ComplexConcept.exe
+D:\CPP Projects\Repositories\ComplexConcept\ComplexConcept\x64\Debug\ComplexConcept.exe
